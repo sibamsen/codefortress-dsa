@@ -19,4 +19,4 @@ class Solution(object):
                 nums[write] = nums[read]
                 write += 1
 
-        return write
+        return write 
