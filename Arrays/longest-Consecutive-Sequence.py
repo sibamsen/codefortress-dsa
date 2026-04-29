@@ -21,6 +21,7 @@ class Solution:
     def longestConsecutive(self, nums):
         num_set = set(nums)
         max_length = 0
+        length = 0
 
         for num in num_set:
             # Only start if it's beginning of sequence
