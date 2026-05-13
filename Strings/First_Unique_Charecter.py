@@ -1,5 +1,4 @@
-"""
-First Non-Repeating Character
+## First Non-Repeating Character
 
 Problem:
 Find first character that appears only once.
