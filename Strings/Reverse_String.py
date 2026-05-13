@@ -1,5 +1,4 @@
-"""
-Reverse a String
+## Reverse a String
 
 Problem:
 Given a string s, return the reversed string.
@@ -18,7 +17,8 @@ Steps:
 --------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(n)
-"""
+
+#optimal code
 
 def reverse_string(s):
     s_list = list(s)
