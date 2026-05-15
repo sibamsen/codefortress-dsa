@@ -1,5 +1,4 @@
-"""
-Union of Two Sorted Arrays
+#Union of Two Sorted Arrays
 
 Problem:
 Return union of two sorted arrays without duplicates.
@@ -9,7 +8,7 @@ Two Pointer Merge Technique
 
 Time Complexity: O(n + m)
 Space Complexity: O(n + m)
-"""
+
 
 class Solution:
     def unionArray(self, nums1, nums2):
