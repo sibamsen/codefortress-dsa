@@ -1,5 +1,4 @@
-"""
-Pascal's Triangle
+#Pascal's Triangle
 
 Problem:
 Generate first numRows of Pascal's Triangle
@@ -9,7 +8,7 @@ Dynamic Programming (Row Construction)
 
 Time Complexity: O(n^2)
 Space Complexity: O(n^2)
-"""
+
 
 class Solution(object):
     def generate(self, numRows):
