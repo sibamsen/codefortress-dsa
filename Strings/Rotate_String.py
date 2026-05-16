@@ -1,5 +1,4 @@
-"""
-Rotate String
+#Rotate String
 
 Problem:
 Check if string s can be rotated to form goal.
@@ -14,7 +13,7 @@ If goal is substring of s+s → rotation possible
 --------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(n)
-"""
+
 
 def rotateString(s, goal):
     if len(s) != len(goal):
