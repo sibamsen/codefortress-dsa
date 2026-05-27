@@ -1,6 +1,6 @@
-#optimal Aproach
+# optimal Aproach
 
-class Solution:
+class Solutions:
     def findMissingRepeatingNumbers(self, nums):
         n = len(nums)
 
