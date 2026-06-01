@@ -11,7 +11,7 @@ having the largest product and return the product.
 Example:
 Input:
 [2,3,-2,4]
-
+ 
 Output:
 6
 
