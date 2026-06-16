@@ -23,6 +23,7 @@ Anagrams will have the same sorted representation.
 Time Complexity: O(n * k log k)
 Space Complexity: O(n * k)
 """
+#optimal approach
 
 def groupAnagrams(strs):
     mp = {}
