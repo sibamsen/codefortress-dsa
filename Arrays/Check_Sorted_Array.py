@@ -10,7 +10,7 @@ Count inversion points (breaks)
 Time Complexity: O(n)
 Space Complexity: O(1)
 """
-
+#optimal approach
 class Solution(object):
     def check(self, nums):
         count = 0
