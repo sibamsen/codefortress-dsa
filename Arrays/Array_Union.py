@@ -9,7 +9,7 @@ Two Pointer Merge Technique
 Time Complexity: O(n + m)
 Space Complexity: O(n + m)
 
-
+#optimal approach
 class Solution:
     def unionArray(self, nums1, nums2):
         i, j = 0, 0
