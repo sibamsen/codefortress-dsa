@@ -10,6 +10,8 @@ Two Pointer (Slow-Fast)
 Time Complexity: O(n)
 Space Complexity: O(1)
 """
+#optimal solution
+
 
 class Solution(object):
     def moveZeroes(self, nums):
