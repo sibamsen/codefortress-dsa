@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/sibamsen/codefortress-dsa?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/sibamsen/codefortress-dsa?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sibamsen/codefortress-dsa)
-![Language](https://img.shields.io/badge/Language-Python-blue) 
+![Language](https://img.shields.io/badge/Language-Python-blue)  
 
 A complete collection of my solutions to the **Striver A-Z DSA Sheet**, implemented in **Python**.
 
