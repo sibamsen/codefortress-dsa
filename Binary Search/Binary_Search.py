@@ -33,7 +33,7 @@ O(log N)
 Space Complexity:
 O(1)
 """
-
+#optimal solution
 class Solution:
     def search(self, nums, target):
 
