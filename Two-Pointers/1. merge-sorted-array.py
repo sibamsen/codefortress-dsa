@@ -8,7 +8,7 @@ We fill nums1 from the back using the largest available element.
 Time Complexity: O(m + n)
 Space Complexity: O(1)
 """
-#oprimal solution
+#optimal solution
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
         i = m - 1          # last valid element in nums1
