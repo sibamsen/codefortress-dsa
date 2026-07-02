@@ -1,5 +1,3 @@
-# LeetCode 238. Product of Array Except Self
-
 ## Algorithm
 
 Prefix Product + Suffix Product
