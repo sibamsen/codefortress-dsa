@@ -32,7 +32,7 @@ O(n)
 
 Note: LeetCode considers the output array as not extra space, so the optimized solution is O(1) extra space.
 
-## Code
+## optimal approach
 
 ```python
 class Solution(object):
