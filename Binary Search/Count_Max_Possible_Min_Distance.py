@@ -1,5 +1,5 @@
 """
-Aggressive Cows
+Approach: Aggressive Cows
 
 Algorithm:
 Binary Search on Answer + Greedy
@@ -24,7 +24,7 @@ O(n log(maxDistance))
 Space Complexity:
 O(1)
 """
-
+#optmal solution
 class Solution:
 
     def canPlace(self, nums, k, dist):
