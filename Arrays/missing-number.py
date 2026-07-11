@@ -19,6 +19,7 @@ Missing Number = Expected Sum - Actual Sum
 Time Complexity: O(n)
 Space Complexity: O(1)
 """
+#optimal solution
 
 def missing_number(nums):
     n = len(nums)
