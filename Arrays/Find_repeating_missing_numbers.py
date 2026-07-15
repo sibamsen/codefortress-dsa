@@ -34,7 +34,7 @@ O(n)
 Space Complexity:
 O(n)
 """
-
+#optimal solution
 class Solution:
     def findMissingRepeatingNumbers(self, nums):
 
