@@ -21,17 +21,6 @@ Instead of actually flattening the matrix, perform Binary Search on the imaginar
 
 Whenever a middle index is obtained, convert it into the corresponding matrix position.
 
-### Mapping Formula
-
-```python
-row = mid // m
-col = mid % m
-```
-
-where `m` is the number of columns.
-
----
-
 ## Algorithm
 
 1. Find number of rows (`n`) and columns (`m`).
