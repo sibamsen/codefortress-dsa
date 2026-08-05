@@ -85,7 +85,7 @@ Striver-A2Z-DSA/
 | Topic | Status |
 |--------|--------|
 | Arrays | ✅ |
-| Binary Search | ⏳ |
+| Binary Search | ✅ |
 | Strings | ⏳ |
 | Linked List | ⏳ |
 | Recursion | ⏳ |
