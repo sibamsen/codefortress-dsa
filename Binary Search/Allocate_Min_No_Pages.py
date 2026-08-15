@@ -25,7 +25,7 @@ O(n * log(sum(nums)))
 Space Complexity:
 O(1)
 """
-
+#optimal code
 class Solution:
 
     def canAllocate(self, nums, m, limit):
