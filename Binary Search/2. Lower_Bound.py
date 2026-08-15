@@ -21,7 +21,7 @@ search right.
 Time Complexity: O(log n)
 Space Complexity: O(1)
 """
-
+#optimal code
 class Solution:
     def lowerBound(self, nums, x):
 
