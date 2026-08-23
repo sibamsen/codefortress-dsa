@@ -60,6 +60,7 @@ Striver-A2Z-DSA/
 │
 ├── Arrays/
 ├── Binary Search/
+├── Two-Pointers/
 ├── Strings/
 ├── Linked List/
 ├── Recursion/
@@ -86,6 +87,7 @@ Striver-A2Z-DSA/
 |--------|--------|
 | Arrays | ✅ |
 | Binary Search | ✅ |
+| Two Pointers | ✅ |
 | Strings | ⏳ |
 | Linked List | ⏳ |
 | Recursion | ⏳ |
