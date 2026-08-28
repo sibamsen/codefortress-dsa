@@ -1,4 +1,4 @@
-# 🚀 Striver A-Z DSA Sheet Solutions
+# 🚀 A-Z DSA Sheet Solutions
 
 ![GitHub stars](https://img.shields.io/github/stars/sibamsen/codefortress-dsa?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/sibamsen/codefortress-dsa?style=social)
