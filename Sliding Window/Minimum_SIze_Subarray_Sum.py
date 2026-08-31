@@ -178,7 +178,7 @@ class Solution(object):
             current_sum += nums[right]
 
             while current_sum >= target:
-                min_length = min(
+                min_length = min( 
                     min_length,
                     right - left + 1
                 )
