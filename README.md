@@ -88,12 +88,12 @@ Striver-A2Z-DSA/
 | Arrays | ✅ |
 | Binary Search | ✅ |
 | Two Pointers | ✅ |
+| Sliding Window | ✅ |
 | Strings | ⏳ |
 | Linked List | ⏳ |
 | Recursion | ⏳ |
 | Bit Manipulation | ⏳ |
 | Stack & Queue | ⏳ |
-| Sliding Window | ⏳ |
 | Heap | ⏳ |
 | Greedy | ⏳ |
 | Binary Trees | ⏳ |
