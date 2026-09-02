@@ -7,7 +7,7 @@
 - For each substring, check whether it contains all characters of `t` with the required frequencies.
 - Among all valid substrings, return the shortest one.
 
-### Time Complexity
+### Time Complexity 
 - **O(m² × n)** in the worst case
   - `m = len(s)`
   - `n = len(t)`
