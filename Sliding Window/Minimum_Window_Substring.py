@@ -2,7 +2,7 @@
 
 ## 1. Brute Force
 
-### Algorithm
+### Algorithm 
 - Generate every possible substring of `s`.
 - For each substring, check whether it contains all characters of `t` with the required frequencies.
 - Among all valid substrings, return the shortest one.
