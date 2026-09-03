@@ -10,7 +10,7 @@
 ### Time Complexity 
 - **O(m² × n)** in the worst case
   - `m = len(s)`
-  - `n = len(t)`
+  - `n = len(t)` 
 - There are O(m²) substrings, and checking each substring can take O(m + n).
 
 ### Space Complexity
