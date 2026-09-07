@@ -33,6 +33,9 @@ O(log N)
 Space Complexity:
 O(1)
 """
+
+
+#optimal code
 #optimal solution
 class Solution:
     def search(self, nums, target):
