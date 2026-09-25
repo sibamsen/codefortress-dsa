@@ -7,14 +7,7 @@
 - For each substring, check whether it contains all characters of `t` with the required frequencies.
 - Among all valid substrings, return the shortest one.
 
-### Time Complexity 
-- **O(m² × n)** in the worst case
-  - `m = len(s)`
-  - `n = len(t)` 
-- There are O(m²) substrings, and checking each substring can take O(m + n).
 
-### Space Complexity
-- **O(n)** for the frequency map.
  
 ### Code
 ```python
@@ -52,6 +45,14 @@ class Solution:
 
         return result
 
+### Time Complexity 
+- **O(m² × n)** in the worst case
+  - `m = len(s)`
+  - `n = len(t)` 
+- There are O(m²) substrings, and checking each substring can take O(m + n).
+
+### Space Complexity
+- **O(n)** for the frequency map.
 
 ## 2. Better
 Algorithm
@@ -61,12 +62,7 @@ Algorithm
 - Maintain the frequency of characters in the current substring instead of rebuilding it every time.
 - Whenever the current substring contains all required characters, update the minimum answer.
 
-Time Complexity
-O(m²)
-Space Complexity
-O(n)
-
-Code:
+#Code:
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if not s or not t:
@@ -110,16 +106,11 @@ class Solution:
         return s[start:start + min_len]
 
 
+#Time Complexity
+O(m²)
+#Space Complexity
+O(n)
 ## 3. Optimal — Sliding Window
-
-Time Complexity
-O(m + n)
-right moves at most m times.
-left also moves at most m times.
-Building need takes O(n).
-Space Complexity
-O(n) in general.
-For this problem, since s and t contain only English letters, this is effectively O(1).
 
 code:
 class Solution:
@@ -180,3 +171,16 @@ class Solution:
             return ""
 
         return s[start:start + min_len]
+
+
+
+
+#Time Complexity
+O(m + n)
+right moves at most m times.
+left also moves at most m times.
+Building need takes O(n).
+#Space Complexity
+O(n) in general.
+For this problem, since s and t contain only English letters, this is effectively O(1).
+
