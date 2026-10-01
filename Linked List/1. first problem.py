@@ -1,5 +1,5 @@
 Optimal Solution
 TIme and Space Complexity
 Better Solution
-#BruteForce code
+BruteForce code
  
