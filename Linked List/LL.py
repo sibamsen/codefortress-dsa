@@ -11,4 +11,4 @@ class Solution(object):
             rev = rev * 10 + digit
             x //= 10
 
-        return original == rev
+        return original == rev    
